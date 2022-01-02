@@ -46,7 +46,7 @@ This project leverages Python 3.7.  The following packages are also used:
 
 ## Installation Guide
 
-Before running the application, install Python modules Pandas, hvPlot, SQLAlchemy and Voila:
+Before running the application, install Python modules Streamlit, web3 and ethereum-tester:
 
 ```python
 
@@ -57,6 +57,8 @@ Before running the application, install Python modules Pandas, hvPlot, SQLAlchem
   pip install eth-tester==0.5.0b3
 
 ```
+Navigate to Ganache web page to install Ganache.
+
 ---
 
 ## Run Application
